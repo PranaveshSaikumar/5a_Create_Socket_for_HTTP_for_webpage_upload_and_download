@@ -55,9 +55,9 @@ if __name__ == "__main__":
     download_file(host, port, 'example.txt')
     print("File downloaded successfully.")
 ```
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## OUTPUT
 ![Screenshot 2024-11-07 102915](https://github.com/user-attachments/assets/c054281c-de69-41f6-827d-e701e0afb42f)
-
+<br><br><br>
 ## Result
 Thus the socket for HTTP for web page upload and download created and Executed
